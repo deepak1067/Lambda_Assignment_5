@@ -18,4 +18,4 @@ If the input list doesn't contain any strings then the result list should be emp
 >>> the three the three the three an an a
 > 
 >> Sample Output 2:
->>> a an the three
+>>> a an the three.
